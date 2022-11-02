@@ -1,0 +1,14 @@
+D:\Yudiz\C#\MyProject2\MyProject2\bin\Debug\netcoreapp3.1\MyProject2.exe
+D:\Yudiz\C#\MyProject2\MyProject2\bin\Debug\netcoreapp3.1\MyProject2.deps.json
+D:\Yudiz\C#\MyProject2\MyProject2\bin\Debug\netcoreapp3.1\MyProject2.runtimeconfig.json
+D:\Yudiz\C#\MyProject2\MyProject2\bin\Debug\netcoreapp3.1\MyProject2.runtimeconfig.dev.json
+D:\Yudiz\C#\MyProject2\MyProject2\bin\Debug\netcoreapp3.1\MyProject2.dll
+D:\Yudiz\C#\MyProject2\MyProject2\bin\Debug\netcoreapp3.1\MyProject2.pdb
+D:\Yudiz\C#\MyProject2\MyProject2\obj\Debug\netcoreapp3.1\MyProject2.csproj.AssemblyReference.cache
+D:\Yudiz\C#\MyProject2\MyProject2\obj\Debug\netcoreapp3.1\MyProject2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yudiz\C#\MyProject2\MyProject2\obj\Debug\netcoreapp3.1\MyProject2.AssemblyInfoInputs.cache
+D:\Yudiz\C#\MyProject2\MyProject2\obj\Debug\netcoreapp3.1\MyProject2.AssemblyInfo.cs
+D:\Yudiz\C#\MyProject2\MyProject2\obj\Debug\netcoreapp3.1\MyProject2.csproj.CoreCompileInputs.cache
+D:\Yudiz\C#\MyProject2\MyProject2\obj\Debug\netcoreapp3.1\MyProject2.dll
+D:\Yudiz\C#\MyProject2\MyProject2\obj\Debug\netcoreapp3.1\MyProject2.pdb
+D:\Yudiz\C#\MyProject2\MyProject2\obj\Debug\netcoreapp3.1\MyProject2.genruntimeconfig.cache
